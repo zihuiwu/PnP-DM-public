@@ -1,0 +1,7 @@
+operator:
+  name: phase_retrieval
+  oversample: 4.0
+
+noise: 
+  name: gaussian
+  sigma: 0.01

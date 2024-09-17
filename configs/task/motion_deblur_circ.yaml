@@ -1,0 +1,10 @@
+operator:
+  name: motion_blur_circ
+  kernel_size: 61
+  intensity: 0.5
+  channels: 3
+  img_dim: 256
+
+noise: 
+  name: gaussian
+  sigma: 0.05

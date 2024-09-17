@@ -1,0 +1,8 @@
+.DS_Store
+multirun/
+outputs/
+*.ipynb
+*.sh
+*.png
+taming/
+results*

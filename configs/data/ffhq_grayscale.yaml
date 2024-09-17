@@ -1,0 +1,4 @@
+name: ffhq
+grayscale: true
+head: 100
+root: path/to/ffhq/dataset

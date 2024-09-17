@@ -1,0 +1,9 @@
+operator:
+  name: super_resolution_svd
+  channels: 3
+  img_dim: 256
+  ratio: 4
+
+noise: 
+  name: gaussian
+  sigma: 0.05

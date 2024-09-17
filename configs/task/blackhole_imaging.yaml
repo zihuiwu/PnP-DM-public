@@ -1,0 +1,13 @@
+operator:
+  name: blackhole_imaging
+  imsize: 64
+  w1: 0 # vis_amp
+  w2: 1 
+  w3: 1
+  w4: 0.5
+  gamma: 1.0e-5
+  num_iters: 200
+
+noise: 
+  name: no_noise
+  sigma: 1
