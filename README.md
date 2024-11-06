@@ -1,4 +1,4 @@
-# Code for "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
+# Code for "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors" (NeurIPS 2024)
 
 ### 1) Install packages
 ```python
@@ -31,14 +31,12 @@ Please see its documentation for detailed usage.
 Thank you for your interest in our work!
 Please consider citing 
 ```
-@misc{wu2024principled,
-      title={Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors}, 
-      author={Zihui Wu and Yu Sun and Yifan Chen and Bingliang Zhang and Yisong Yue and Katherine L. Bouman},
-      year={2024},
-      eprint={2405.18782},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2405.18782}, 
+@inproceedings{wu2024principled,
+	title={Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors},
+	author={Zihui Wu and Yu Sun and Yifan Chen and Bingliang Zhang and Yisong Yue and Katherine Bouman},
+	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+	year={2024},
+	url={https://openreview.net/forum?id=Xq9HQf7VNV}
 }
 ```
 Please email zwu2@caltech.edu if you run into any problems.
