@@ -32,11 +32,11 @@ Thank you for your interest in our work!
 Please consider citing 
 ```
 @inproceedings{wu2024principled,
-	title={Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors},
-	author={Zihui Wu and Yu Sun and Yifan Chen and Bingliang Zhang and Yisong Yue and Katherine Bouman},
-	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-	year={2024},
-	url={https://openreview.net/forum?id=Xq9HQf7VNV}
+    title={Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors},
+    author={Zihui Wu and Yu Sun and Yifan Chen and Bingliang Zhang and Yisong Yue and Katherine Bouman},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+    year={2024},
+    url={https://openreview.net/forum?id=Xq9HQf7VNV}
 }
 ```
 Please email zwu2@caltech.edu if you run into any problems.
