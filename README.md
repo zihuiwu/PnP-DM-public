@@ -11,8 +11,8 @@ pip install -r requirements.txt
 
 Download the corresponding checkpoint from the links below and move it to ```./models/```.
  - [FFHQ (color)](https://drive.google.com/drive/folders/1jElnRoFv7b31fG0v6pTSQkelbSX3xGZh?usp=sharing)
- - [FFHQ (grayscale)](https://caltech.box.com/s/j58w0bf2pe2t0lrzoq45du0hc55ba4lc)
- - [Blackhole (grayscale)](https://caltech.box.com/s/j58w0bf2pe2t0lrzoq45du0hc55ba4lc)
+ - [FFHQ (grayscale)](https://caltech.box.com/s/6317csam14z1df3ktlorenf9njvuyp44)
+ - [Blackhole (grayscale)](https://caltech.box.com/s/o5biomi9juqmwmvjvwb8z17l6cc8xatm)
 
 ### 4) Modify the dataset and model paths in config files
 You need to modify the paths in the following files so that the dataset and models can be loaded properly:
