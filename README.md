@@ -1,5 +1,11 @@
 # Code for "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors" (NeurIPS 2024)
 
+Paper: https://arxiv.org/pdf/2405.18782
+
+Authors: Zihui Wu, Yu Sun, Yifan Chen, Bingliang Zhang, Yisong Yue, Katherine L. Bouman
+
+## Getting Started
+
 ### 1) Install packages
 ```python
 conda create -n pnpdm python=3.10
@@ -14,7 +20,7 @@ Download the corresponding checkpoint from the links below and move it to ```./m
  - [FFHQ (grayscale)](https://caltech.box.com/s/6317csam14z1df3ktlorenf9njvuyp44)
  - [Blackhole (grayscale)](https://caltech.box.com/s/o5biomi9juqmwmvjvwb8z17l6cc8xatm)
 
-### 4) Modify the dataset and model paths in config files
+### 3) Modify the dataset and model paths in config files
 You need to modify the paths in the following files so that the dataset and models can be loaded properly:
  - `./configs/data/ffhq.yaml`
  - `./configs/data/ffhq_grayscale.yaml`
@@ -27,7 +33,7 @@ All the commands for running our experiments are provided in ```commands.sh```.
 The experiments are configured using [hydra](https://hydra.cc/). 
 Please see its documentation for detailed usage.
 
-### 5) Citation
+## Citation
 Thank you for your interest in our work!
 Please consider citing 
 ```
